@@ -9,3 +9,4 @@ import './index.css';
 //   </React.StrictMode>,
 //   document.getElementById('root')
 // );
+//Я не понял как тут нормально работать. в последствии всё начну переносить нормально сюда
